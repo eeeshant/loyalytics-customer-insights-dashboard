@@ -6,7 +6,7 @@ This Tableau dashboard analyzes customer behavior, loyalty program performance, 
 
 ## Dashboard Preview
 
-(Dashboard.png)
+![Dasboard](Dashboard.png)
 
 ## Key Insights
 
