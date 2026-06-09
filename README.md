@@ -25,8 +25,7 @@ This Tableau dashboard analyzes customer behavior, loyalty program performance, 
 - Business Analytics
 
 ## Dashboard Link
-
-https://public.tableau.com/app/profile/eeeshant.chettry/viz/Loyalyticscasestudy_17809993914960/Dashboard1?publish=yes
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/eeeshant.chettry/viz/Loyalyticscasestudy_17809993914960/Dashboard1)
 
 ## Author
 
