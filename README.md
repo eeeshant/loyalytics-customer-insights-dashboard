@@ -24,6 +24,16 @@ This Tableau dashboard analyzes customer behavior, loyalty program performance, 
 - Data Visualization
 - Business Analytics
 
+## Skills Demonstrated
+
+- Tableau Dashboard Development
+- Data Visualization
+- Business Analytics
+- KPI Reporting
+- Customer Segmentation
+- Trend Analysis
+- Data Storytelling
+
 ## Dashboard Link
 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/eeeshant.chettry/viz/Loyalyticscasestudy_17809993914960/Dashboard1)
 
